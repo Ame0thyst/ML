@@ -1,0 +1,432 @@
+osm_id,code,fclass,name,longitude,latitude,facility_count,status
+"330063880",5250,fuel,SPBU,99.161,3.322,33,strategis
+"456045476",5250,fuel,SPBU,101.471,0.500,36,strategis
+"457837210",5250,fuel,Pertamina,101.428,0.613,0,tidak stra
+"457837211",5250,fuel,Pertamina,101.438,0.687,0,tidak stra
+"457837500",5250,fuel,Pertamina,101.403,0.538,1,tidak stra
+"457837513",5250,fuel,Pertamina,101.399,0.574,1,tidak stra
+"462086851",5250,fuel,SPBU,101.422,0.535,28,strategis
+"462165004",5250,fuel,SPBU,101.396,0.512,1,tidak stra
+"467530312",5250,fuel,Pertamina,101.527,0.465,1,tidak stra
+"470790180",5250,fuel,SPBU Pertamina,101.490,0.514,2,tidak stra
+"470790469",5250,fuel,Pertamina,101.568,0.458,0,tidak stra
+"470793864",5250,fuel,Pertamina,101.804,0.656,2,tidak stra
+"700645194",5250,fuel,SPBU,103.965,1.058,16,strategis
+"702182327",5250,fuel,Fuel Station (Spbu Tembesi),104.001,1.040,7,strategis
+"702183002",5250,fuel,Fuel Temiang,103.968,1.062,2,tidak stra
+"702328175",5250,fuel,,103.954,1.050,25,strategis
+"702350219",5250,fuel,PERTAMINA Sukajadi,104.022,1.114,17,strategis
+"702352162",5250,fuel,PERTAMINA Duriangkang,104.037,1.097,13,strategis
+"702670734",5250,fuel,PERTAMINA Al-Azhar,104.021,1.134,68,strategis
+"703814989",5250,fuel,PERTAMINA Harbour Bay,104.002,1.154,77,strategis
+"705081941",5250,fuel,Fuel Station (Rumah Hitam) Sekupang,103.950,1.110,35,strategis
+"707537290",5250,fuel,Fuel Bensin Mekar Sari,103.979,1.111,33,strategis
+"707606017",5250,fuel,Fuel Bensin Tiban 3,103.966,1.109,28,strategis
+"718932258",5250,fuel,Fuel Uib,104.005,1.121,14,strategis
+"736621162",5250,fuel,PERTAMINA Belakang BCA Jodoh,104.006,1.153,112,strategis
+"736630440",5250,fuel,PERTAMINA Seraya,104.017,1.148,169,strategis
+"760475100",5250,fuel,PERTAMINA KDA Batam Kota,104.076,1.102,14,strategis
+"760485238",5250,fuel,SPBU Kapital Raya,104.090,1.107,10,strategis
+"760491346",5250,fuel,Fuel Station(Spbu Kabil),104.118,1.084,1,tidak stra
+"799261457",5250,fuel,SPBU Arengka,101.419,0.454,15,strategis
+"799261468",5250,fuel,Pertamina,101.418,0.448,19,strategis
+"799261493",5250,fuel,,101.463,0.433,11,strategis
+"799261496",5250,fuel,Pertamina,101.444,0.433,9,strategis
+"799261509",5250,fuel,Pertamina,101.508,0.500,2,tidak stra
+"820947020",5250,fuel,,98.971,2.209,1,tidak stra
+"820947037",5250,fuel,,98.945,2.082,1,tidak stra
+"820947048",5250,fuel,,98.974,2.025,1,tidak stra
+"820947051",5250,fuel,,99.070,2.334,8,strategis
+"820947052",5250,fuel,,99.002,2.270,2,tidak stra
+"820983157",5250,fuel,,99.563,0.851,1,tidak stra
+"820983186",5250,fuel,,99.306,1.448,0,tidak stra
+"820983200",5250,fuel,,100.060,0.359,2,tidak stra
+"820983248",5250,fuel,,99.571,0.810,2,tidak stra
+"820983258",5250,fuel,,99.548,0.900,0,tidak stra
+"820986764",5250,fuel,,100.162,0.156,2,tidak stra
+"820986768",5250,fuel,,100.372,-0.311,92,strategis
+"856982312",5250,fuel,PERTAMINA PIH,104.058,1.123,30,strategis
+"859634969",5250,fuel,SPBU Pertamina 14.281669,101.450,0.540,25,strategis
+"859646823",5250,fuel,SPBU Pertamina,101.456,0.542,15,strategis
+"885991631",5250,fuel,SPBU,101.453,0.477,29,strategis
+"901205298",5250,fuel,PERTAMINA Duta Mas,104.039,1.105,23,strategis
+"903271275",5250,fuel,PERTAMINA Sungai Panas,104.027,1.139,68,strategis
+"1368722084",5250,fuel,Pertamina,99.287,1.562,1,tidak stra
+"1369108451",5250,fuel,SPBU Pertamina,100.300,0.888,9,strategis
+"1369151775",5250,fuel,Pertamina,100.504,0.735,0,tidak stra
+"1369156535",5250,fuel,Pertamina,100.548,0.701,14,strategis
+"1369177805",5250,fuel,Pertamina,100.641,0.610,1,tidak stra
+"1370923765",5250,fuel,Pertamina,98.944,2.666,12,strategis
+"1668695492",5250,fuel,Pertamina,105.253,-5.421,177,strategis
+"1848326928",5250,fuel,SPBU PENGKALA,97.341,4.001,14,strategis
+"1849888547",5250,fuel,,95.793,4.474,0,tidak stra
+"1850975650",5250,fuel,SPBU RAKLUNUNG,97.344,3.989,12,strategis
+"1879016496",5250,fuel,,105.270,-5.445,114,strategis
+"1934657811",5250,fuel,SPBU Simpang Kimbang,100.579,-0.462,9,strategis
+"1980660370",5250,fuel,SPBU Cubadag,100.545,-0.464,3,tidak stra
+"1989177390",5250,fuel,SPBU parak juar,100.588,-0.450,17,strategis
+"2055935651",5250,fuel,SPBU,101.407,0.481,29,strategis
+"2055935657",5250,fuel,SPBU,101.364,0.499,5,strategis
+"2105116003",5250,fuel,SPBU Pertamina,101.180,1.283,21,strategis
+"2108523159",5250,fuel,SPBU Pertamina,101.193,1.287,34,strategis
+"2170588590",5250,fuel,,98.717,3.541,10,strategis
+"2171314463",5250,fuel,,98.942,2.667,13,strategis
+"2323985963",5250,fuel,,98.677,3.595,144,strategis
+"2410482763",5250,fuel,Pertamina,105.175,-5.206,1,tidak stra
+"2419456159",5250,fuel,Pertamina,105.215,-4.890,14,strategis
+"2419456160",5250,fuel,Pertamina,105.598,-5.722,7,strategis
+"2425707651",5250,fuel,SPBU,104.706,-2.919,8,strategis
+"2441129245",5250,fuel,SPBU Padang Jati,102.275,-3.803,40,strategis
+"2526523019",5250,fuel,,105.527,-4.927,0,tidak stra
+"2600946017",5250,fuel,Kios Bensin,105.114,-4.550,0,tidak stra
+"2613700851",5250,fuel,Pertamina,97.640,1.249,1,tidak stra
+"2631648804",5250,fuel,,97.639,1.257,1,tidak stra
+"2631648805",5250,fuel,,97.635,1.271,0,tidak stra
+"2668835562",5250,fuel,Pertamina,105.353,-5.086,3,tidak stra
+"2706757261",5250,fuel,SPBU Pasar Pagi Soekarno Hatta,101.419,0.467,32,strategis
+"2775852100",5250,fuel,SPBU,102.102,-1.317,21,strategis
+"2813165758",5250,fuel,,98.492,3.092,0,tidak stra
+"2813171193",5250,fuel,Pertamina,98.509,3.195,72,strategis
+"2815460733",5250,fuel,,98.416,3.531,1,tidak stra
+"2823824388",5250,fuel,,98.301,3.495,0,tidak stra
+"2962728956",5250,fuel,Pertamina,101.463,1.678,9,strategis
+"2978689949",5250,fuel,SPBU,101.438,1.678,12,strategis
+"3001930669",5250,fuel,Pertamina,101.189,0.742,0,tidak stra
+"3001944295",5250,fuel,Pertamina,100.926,0.310,0,tidak stra
+"3021624637",5250,fuel,SPBU,101.391,1.601,1,tidak stra
+"3024494938",5250,fuel,Pertamina,97.140,5.182,18,strategis
+"3026542018",5250,fuel,SPBU,101.448,1.666,15,strategis
+"3051403483",5250,fuel,Pertamina,101.023,0.415,0,tidak stra
+"3051409688",5250,fuel,Pertamina,100.973,0.332,0,tidak stra
+"3051467663",5250,fuel,Pertamina,100.600,-0.263,1,tidak stra
+"3068107713",5250,fuel,SPBU Air Sebakul,102.346,-3.832,0,tidak stra
+"3101702919",5250,fuel,,101.468,0.482,4,tidak stra
+"3111350010",5250,fuel,SPBU Balai Raja,101.240,1.214,1,tidak stra
+"3144050026",5250,fuel,,99.154,2.448,0,tidak stra
+"3158949331",5250,fuel,SPBU,96.826,3.730,41,strategis
+"3160809191",5250,fuel,SPBU JULI,96.702,5.192,7,strategis
+"3168932887",5250,fuel,Pom Bensin,102.129,1.489,26,strategis
+"3169694228",5250,fuel,Pom Bensin,102.131,1.478,21,strategis
+"3205617797",5250,fuel,Depot Elpiji,101.574,0.462,0,tidak stra
+"3216854965",5250,fuel,Pom Bensin,102.139,1.457,7,strategis
+"3235941577",5250,fuel,SPBU,101.452,0.504,77,strategis
+"3235993314",5250,fuel,SPBU Thamrin,101.458,0.516,38,strategis
+"3237890505",5250,fuel,Pertamina,102.047,0.934,0,tidak stra
+"3242943497",5250,fuel,Pertamina,102.147,1.375,1,tidak stra
+"3242999262",5250,fuel,Pertamina,102.105,1.106,2,tidak stra
+"3261710770",5250,fuel,SPBU,102.207,1.525,3,tidak stra
+"3261816232",5250,fuel,SPMA,102.464,1.294,2,tidak stra
+"3262170349",5250,fuel,Pertamina,102.474,1.498,2,tidak stra
+"3328120468",5250,fuel,SPBU,96.849,3.731,21,strategis
+"3352222769",5250,fuel,,98.684,3.599,82,strategis
+"3352222781",5250,fuel,SPBU Coco 11.201.101,98.673,3.602,79,strategis
+"3435347276",5250,fuel,SPBU Pertamina,101.280,1.142,1,tidak stra
+"3441376501",5250,fuel,Pertamina,99.704,2.925,1,tidak stra
+"3478378642",5250,fuel,SPBU Mempura,102.067,0.753,0,tidak stra
+"3478391316",5250,fuel,SPBU,102.027,0.825,2,tidak stra
+"3546140269",5250,fuel,Pertamina,105.213,-4.927,28,strategis
+"3584856293",5250,fuel,,98.432,3.608,0,tidak stra
+"3638556931",5250,fuel,SPBU KKSP,100.465,-0.957,2,tidak stra
+"3685276831",5250,fuel,SPBU Pertamina,105.185,-5.258,0,tidak stra
+"3779422765",5250,fuel,Pomp bensin bayu asin,104.556,-2.928,0,tidak stra
+"3780536082",5250,fuel,SPBU 24 301108,104.685,-2.913,1,tidak stra
+"3781621548",5250,fuel,SPBU,104.407,-2.898,1,tidak stra
+"3782995707",5250,fuel,SPBU Banyu Asin,104.433,-2.923,0,tidak stra
+"3881209320",5250,fuel,Pertamina,98.601,3.456,8,strategis
+"3884339189",5250,fuel,SPBU,104.090,1.107,10,strategis
+"3908448642",5250,fuel,,98.688,3.586,145,strategis
+"3911883976",5250,fuel,Singapore Station,98.669,3.594,166,strategis
+"3912831335",5250,fuel,Pertamina,98.662,3.688,6,strategis
+"3920228845",5250,fuel,SPBU Coco 11.201.107,98.695,3.599,19,strategis
+"3920228846",5250,fuel,,98.707,3.625,12,strategis
+"3920228852",5250,fuel,,98.681,3.639,2,tidak stra
+"3920231560",5250,fuel,,98.676,3.642,6,strategis
+"3920231562",5250,fuel,,98.664,3.655,2,tidak stra
+"3950000541",5250,fuel,Pertamina,105.252,-5.378,44,strategis
+"3952996326",5250,fuel,SPBU,105.204,-5.398,10,strategis
+"3953398712",5250,fuel,Pom Kota Gajah,105.317,-4.983,8,strategis
+"3982110757",5250,fuel,,99.085,3.020,1,tidak stra
+"3991394940",5250,fuel,SPBU 24.317.101 Tanjung Enim,103.801,-3.731,1,tidak stra
+"4015807330",5250,fuel,SPBU Sudirman atas,101.455,0.491,44,strategis
+"4194564895",5250,fuel,Pertamina,101.355,0.457,91,strategis
+"4195087921",5250,fuel,SPBU,102.522,-0.369,5,strategis
+"4195090024",5250,fuel,SPBU,102.524,-0.370,6,strategis
+"4201262687",5250,fuel,SPBU,101.395,0.491,12,strategis
+"4264427752",5250,fuel,Bensin,95.244,5.882,4,tidak stra
+"4264580247",5250,fuel,SPBU Tapak Gajah,95.322,5.899,24,strategis
+"4271458272",5250,fuel,Pertamina,98.670,3.592,206,strategis
+"4271458273",5250,fuel,Pertamina,98.672,3.595,147,strategis
+"4278109369",5250,fuel,Pertamina,98.670,3.622,69,strategis
+"4295522091",5250,fuel,SPBU Batu Hitam,104.446,0.911,43,strategis
+"4301034991",5250,fuel,Minyak Eceran,101.773,1.644,0,tidak stra
+"4310447789",5250,fuel,Pom Bensin Asrama,98.627,3.593,17,strategis
+"4329084902",5250,fuel,,98.720,3.598,12,strategis
+"4377182492",5250,fuel,SPBU BT10,104.511,0.920,47,strategis
+"4378527294",5250,fuel,,104.632,0.992,0,tidak stra
+"4378769631",5250,fuel,,98.651,3.608,70,strategis
+"4395480299",5250,fuel,,97.175,3.254,2,tidak stra
+"4409030444",5250,fuel,SPBU 14.20111.26,98.689,3.560,59,strategis
+"4409056693",5250,fuel,SPBU,98.664,3.615,21,strategis
+"4409057433",5250,fuel,SPBU,98.683,3.490,0,tidak stra
+"4539697807",5250,fuel,Pertamina,98.694,3.559,61,strategis
+"4542750379",5250,fuel,SPBU Kasman Lizar,98.020,2.629,12,strategis
+"4545105836",5250,fuel,Pertamina,101.267,0.866,0,tidak stra
+"4545197955",5250,fuel,Pertamini,101.244,0.869,50,strategis
+"4545200269",5250,fuel,Pertamini,101.247,0.868,50,strategis
+"4545200582",5250,fuel,Pertamini,101.247,0.869,50,strategis
+"4547857498",5250,fuel,SPBU,98.739,3.597,5,strategis
+"4559535473",5250,fuel,SPBU koto nan IV,100.618,-0.235,31,strategis
+"4560401710",5250,fuel,SPBU,101.394,0.469,72,strategis
+"4643110895",5250,fuel,Pertamina,99.283,1.366,12,strategis
+"4650433287",5250,fuel,Pertamina,99.271,1.380,23,strategis
+"4650433475",5250,fuel,Pertamina,99.274,1.389,4,tidak stra
+"4675373454",5250,fuel,Pertamina,100.361,-0.926,21,strategis
+"4764110634",5250,fuel,SPBU,101.254,0.402,7,strategis
+"4782996657",5250,fuel,SPBU Pertamina Arifin Ahmad,101.431,0.478,7,strategis
+"4784514410",5250,fuel,SPBU,101.433,0.515,53,strategis
+"4785879729",5250,fuel,SPBU Rimbo Panjang,101.354,0.457,91,strategis
+"4786074039",5250,fuel,SPBU,101.418,0.468,34,strategis
+"4794772621",5250,fuel,,97.151,5.134,0,tidak stra
+"4802865521",5250,fuel,SPBU,104.054,1.044,11,strategis
+"4826957659",5250,fuel,,98.554,3.280,6,strategis
+"4826957660",5250,fuel,,98.520,2.945,1,tidak stra
+"4826957661",5250,fuel,,98.539,3.020,2,tidak stra
+"4845895546",5250,fuel,,98.398,3.919,0,tidak stra
+"4845895548",5250,fuel,,98.422,3.880,0,tidak stra
+"4974487842",5250,fuel,Pertamina,95.345,5.867,1,tidak stra
+"4992819584",5250,fuel,,98.540,3.203,4,tidak stra
+"5033366321",5250,fuel,,95.730,5.444,0,tidak stra
+"5033366323",5250,fuel,lampaseh jaya no 14.231.482,95.324,5.563,62,strategis
+"5051514025",5250,fuel,,105.254,-5.432,38,strategis
+"5076419134",5250,fuel,Pertamina,98.702,2.605,7,strategis
+"5076419136",5250,fuel,,98.542,3.195,1,tidak stra
+"5105421411",5250,fuel,,98.516,3.083,2,tidak stra
+"5162200621",5250,fuel,,99.431,1.386,1,tidak stra
+"5179350734",5250,fuel,SPBU,101.432,0.517,54,strategis
+"5180907780",5250,fuel,SPBU,101.432,0.563,39,strategis
+"5180907781",5250,fuel,SPBU,101.430,0.567,41,strategis
+"5184506459",5250,fuel,SPBU,101.411,0.517,16,strategis
+"5188010118",5250,fuel,SPBU,101.436,0.524,63,strategis
+"5188010121",5250,fuel,SPBU,101.440,0.528,79,strategis
+"5188010124",5250,fuel,SPBU,101.419,0.505,24,strategis
+"5188010125",5250,fuel,SPBU,101.428,0.504,25,strategis
+"5188010127",5250,fuel,SPBU,101.430,0.538,31,strategis
+"5238737621",5250,fuel,,102.927,-3.273,11,strategis
+"5238751622",5250,fuel,,103.060,-3.294,0,tidak stra
+"5238861421",5250,fuel,,103.283,-3.700,0,tidak stra
+"5238978734",5250,fuel,,103.699,-3.669,0,tidak stra
+"5239001025",5250,fuel,,103.101,-3.609,0,tidak stra
+"5239001026",5250,fuel,,104.082,-4.079,0,tidak stra
+"5239002821",5250,fuel,,103.556,-3.786,2,tidak stra
+"5239039725",5250,fuel,SPBU Simpang Trans Batumarta,104.251,-4.215,1,tidak stra
+"5239040221",5250,fuel,,104.158,-4.100,0,tidak stra
+"5240534422",5250,fuel,SPBU Gunung Katun,104.541,-4.665,0,tidak stra
+"5296074099",5250,fuel,Pom Bensin,104.594,-5.489,0,tidak stra
+"5309672462",5250,fuel,SPBU Jl.Paus 13.282.610,101.439,0.491,9,strategis
+"5346205621",5250,fuel,,98.369,2.739,0,tidak stra
+"5346205622",5250,fuel,,98.499,3.105,3,tidak stra
+"5352351657",5250,fuel,,100.977,1.601,0,tidak stra
+"5352351658",5250,fuel,,100.677,1.700,0,tidak stra
+"5352351660",5250,fuel,,100.424,1.685,0,tidak stra
+"5352351668",5250,fuel,Pertamina,100.202,1.787,0,tidak stra
+"5352351669",5250,fuel,,100.169,1.847,0,tidak stra
+"5352351670",5250,fuel,,100.110,1.891,0,tidak stra
+"5352351671",5250,fuel,,100.099,1.950,0,tidak stra
+"5352351672",5250,fuel,,99.965,2.058,0,tidak stra
+"5352351673",5250,fuel,Pertamina,99.836,2.094,4,tidak stra
+"5352351676",5250,fuel,,99.644,2.471,0,tidak stra
+"5352351677",5250,fuel,Pertamina,99.613,2.972,0,tidak stra
+"5352351678",5250,fuel,,99.630,2.975,0,tidak stra
+"5360889142",5250,fuel,,102.270,-3.811,28,strategis
+"5362859849",5250,fuel,SPBU,104.682,-2.924,0,tidak stra
+"5380137034",5250,fuel,,104.011,1.132,105,strategis
+"5592290663",5250,fuel,,104.125,1.158,9,strategis
+"5645142639",5250,fuel,,98.905,3.424,0,tidak stra
+"5645157821",5250,fuel,,98.903,3.495,0,tidak stra
+"5645206122",5250,fuel,,97.203,5.116,2,tidak stra
+"5645206125",5250,fuel,,98.543,2.997,1,tidak stra
+"5645224421",5250,fuel,,97.915,4.597,0,tidak stra
+"5661217188",5250,fuel,SPBU `14.282.603,101.452,0.505,75,strategis
+"5666025940",5250,fuel,pertamina jeulingke 14.239.405,95.344,5.572,16,strategis
+"5757926621",5250,fuel,,100.395,-0.296,2,tidak stra
+"5761150822",5250,fuel,,100.458,-0.286,3,tidak stra
+"5767323153",5250,fuel,,100.368,-0.956,42,strategis
+"5767323753",5250,fuel,,100.415,-1.032,0,tidak stra
+"5768352553",5250,fuel,,100.381,-0.979,13,strategis
+"5772036553",5250,fuel,Pertamina,100.371,-0.945,26,strategis
+"5863172820",5250,fuel,,98.225,4.009,0,tidak stra
+"5863186832",5250,fuel,SPBU,98.288,4.016,2,tidak stra
+"5901809396",5250,fuel,,104.694,-3.301,9,strategis
+"5904066275",5250,fuel,Pertamina,105.259,-5.383,60,strategis
+"5904515487",5250,fuel,,104.221,-4.055,2,tidak stra
+"5905705992",5250,fuel,SPBU LAMPENEURUT 13.233.404,95.348,5.510,2,tidak stra
+"5905706000",5250,fuel,SPBU PAGAR AIR 14 233458,95.362,5.527,0,tidak stra
+"5913412642",5250,fuel,SPBUN 18.232.004,95.288,5.559,3,tidak stra
+"5920104775",5250,fuel,SPBU Lambhuk,95.337,5.554,18,strategis
+"5933664926",5250,fuel,SPBU 14.233463,95.368,5.542,1,tidak stra
+"6051043930",5250,fuel,,104.102,1.124,16,strategis
+"6302723685",5250,fuel,,97.817,2.269,8,strategis
+"6393411383",5250,fuel,SPB Brimob,101.438,0.518,64,strategis
+"6531427785",5250,fuel,,98.050,3.174,0,tidak stra
+"6601405688",5250,fuel,SPBU 24-35564,105.731,-5.848,0,tidak stra
+"6657112677",5250,fuel,SPBU 260128,105.060,-3.566,0,tidak stra
+"6659888366",5250,fuel,SPBU,104.818,-3.727,1,tidak stra
+"6660162569",5250,fuel,SPBU Pertamina,105.221,-4.022,0,tidak stra
+"6711367885",5250,fuel,,100.358,-0.965,55,strategis
+"6727139476",5250,fuel,SPBU,105.211,-4.664,3,tidak stra
+"6735711185",5250,fuel,SPBU Kekiling,105.648,-5.727,6,strategis
+"6753158641",5250,fuel,Pertamina,102.864,-3.279,0,tidak stra
+"6846246168",5250,fuel,Pertamina,103.383,-1.058,0,tidak stra
+"6851542541",5250,fuel,pelabuhan,105.703,3.033,2,tidak stra
+"6866167439",5250,fuel,Pertamina,103.961,1.046,13,strategis
+"6876142701",5250,fuel,PERTAMINA Bengkong,104.032,1.159,41,strategis
+"6882325714",5250,fuel,Pertamina,103.986,1.040,11,strategis
+"6960129397",5250,fuel,SPBU Yos Sudarso,101.436,0.538,29,strategis
+"7019691798",5250,fuel,SPBU 14.262.539,100.628,-0.227,58,strategis
+"7023101934",5250,fuel,Pertamina,102.699,1.001,6,strategis
+"7037657482",5250,fuel,adi,104.712,-2.894,0,tidak stra
+"7057317553",5250,fuel,Pertamina,95.608,5.367,1,tidak stra
+"7057358761",5250,fuel,Pertamina,95.730,5.445,0,tidak stra
+"7057361428",5250,fuel,Pertamina,95.892,5.373,1,tidak stra
+"7083498380",5250,fuel,Pertamina,97.950,3.319,1,tidak stra
+"7083528365",5250,fuel,Pertamina,97.860,3.443,1,tidak stra
+"7168327070",5250,fuel,SPBU 24-31691,102.948,-3.181,1,tidak stra
+"7187746047",5250,fuel,,101.366,0.478,116,strategis
+"7550767104",5250,fuel,SPBU UB Baturaja,104.182,-4.140,5,strategis
+"7550767107",5250,fuel,SPBU Kemelak Baturaja,104.182,-4.153,1,tidak stra
+"7657654311",5250,fuel,Pom Bensin Perandonan,103.214,-3.971,0,tidak stra
+"7659509754",5250,fuel,Pom Spbu Pendopo,102.970,-3.790,3,tidak stra
+"7687475601",5250,fuel,Pom Spbu Pertamina Air Perikan,103.236,-4.030,7,strategis
+"7949579881",5250,fuel,,98.630,2.919,0,tidak stra
+"7973241600",5250,fuel,SPBU Kota Baru Martapura,104.351,-4.332,0,tidak stra
+"7973241686",5250,fuel,SPBU Air Karang,104.178,-4.130,10,strategis
+"7973241704",5250,fuel,SPBU Bumi Ratu,104.541,-4.604,1,tidak stra
+"7973241725",5250,fuel,SPBU,104.984,-5.285,1,tidak stra
+"7973242297",5250,fuel,SPBU Baradatu,104.543,-4.734,2,tidak stra
+"7973242315",5250,fuel,SPBU,105.190,-5.096,12,strategis
+"7973242317",5250,fuel,SPBU,104.970,-5.242,0,tidak stra
+"7973242392",5250,fuel,SPBU Lampung Tengah,105.207,-5.012,9,strategis
+"8026875987",5250,fuel,,98.470,3.089,0,tidak stra
+"8379956789",5250,fuel,SPBU Pertamina,101.147,1.263,3,tidak stra
+"8547299203",5250,fuel,Spbu Jaka baring,104.772,-3.004,3,tidak stra
+"8570735008",5250,fuel,Pertamina,104.021,1.155,43,strategis
+"8582603064",5250,fuel,Pump bensin dan indomaret muara enim,103.775,-3.632,0,tidak stra
+"8828890334",5250,fuel,SPBU Kijang (SPBU 14291715),104.606,0.863,5,strategis
+"8831232748",5250,fuel,SPBU 13.291.701 KM 19 Kijang,104.574,0.890,3,tidak stra
+"8852183830",5250,fuel,Pertashop,105.090,-4.542,1,tidak stra
+"8925258782",5250,fuel,Pertamina,102.512,-3.444,3,tidak stra
+"9355074628",5250,fuel,PERTAMINA REGATA,104.043,1.133,45,strategis
+"9355230167",5250,fuel,Pertamina,104.018,1.134,93,strategis
+"9355916707",5250,fuel,PERTAMINA Marchelia,104.033,1.122,49,strategis
+"9355932919",5250,fuel,PERTAMINA Aston,104.021,1.142,123,strategis
+"9357287710",5250,fuel,PGN Gas Station,104.058,1.128,30,strategis
+"9479323217",5250,fuel,Pom Pertamina,105.288,-5.389,66,strategis
+"9580886112",5250,fuel,Pertamina,98.673,3.695,1,tidak stra
+"9587107284",5250,fuel,,101.018,-1.442,0,tidak stra
+"9587107289",5250,fuel,,101.114,-1.544,1,tidak stra
+"9587107290",5250,fuel,,101.084,-1.513,0,tidak stra
+"9663624918",5250,fuel,Pertamina,102.248,-0.243,0,tidak stra
+"9663669745",5250,fuel,Pertamina,99.698,0.676,0,tidak stra
+"9670047035",5250,fuel,Pom Mini,102.017,-2.115,2,tidak stra
+"9688092587",5250,fuel,Pertamina,105.747,-5.865,2,tidak stra
+"9710427404",5250,fuel,,97.973,4.485,2,tidak stra
+"9717063879",5250,fuel,Pertamina,98.953,3.568,54,strategis
+"9725548938",5250,fuel,SPBU Pertamina,101.102,-2.555,2,tidak stra
+"9726425168",5250,fuel,Pertashop 2P.371.238,101.597,-2.169,0,tidak stra
+"9728705132",5250,fuel,SPBU Pertamina,103.742,-5.024,1,tidak stra
+"9730050917",5250,fuel,Pertamina,98.689,3.538,62,strategis
+"9730050918",5250,fuel,Pertamina,98.654,3.540,11,strategis
+"9738840608",5250,fuel,SPBU Sungai Rengas,102.865,-1.626,0,tidak stra
+"9763960710",5250,fuel,SPBU Batu 7,104.482,0.916,14,strategis
+"9765678098",5250,fuel,SPBU Batu 8 Bawah,104.504,0.924,40,strategis
+"9768499120",5250,fuel,Bensin Eceran Bewok,105.253,-5.406,75,strategis
+"9768531569",5250,fuel,SPBU Imam Bonjol,105.232,-5.394,4,tidak stra
+"9771280581",5250,fuel,SPBU Antasari,105.282,-5.403,45,strategis
+"9774202364",5250,fuel,Pertamini,105.318,-5.116,19,strategis
+"9774244549",5250,fuel,SPBU Yos Sudarso,105.304,-5.449,1,tidak stra
+"9774327455",5250,fuel,SPBU Bumi Agung,105.182,-5.174,7,strategis
+"9776297111",5250,fuel,SPBU Palapa,105.247,-5.422,98,strategis
+"9776301427",5250,fuel,SPBU Cut Nyak Dien,105.247,-5.414,104,strategis
+"9776323953",5250,fuel,Pom Bensin Mini,105.251,-5.398,87,strategis
+"9776485938",5250,fuel,SPBU Gunung Sugih,105.217,-4.961,10,strategis
+"9776495567",5250,fuel,Pertamini,105.214,-4.975,13,strategis
+"9776939453",5250,fuel,SPBU Kurungan Nyawa,105.196,-5.377,17,strategis
+"9776976852",5250,fuel,SPBUTaman Sari,105.148,-5.365,20,strategis
+"9777449379",5250,fuel,SPBU Tugu Pengantin,105.094,-5.380,22,strategis
+"9778473088",5250,fuel,SPBU Gading Rejo,105.069,-5.374,10,strategis
+"9778519557",5250,fuel,SPBU REST AREA Gadingrejo,105.024,-5.381,19,strategis
+"9778557551",5250,fuel,Ale Pom Bensin,105.004,-5.364,11,strategis
+"9778561882",5250,fuel,Masjid Al Syadar,105.065,-5.374,9,strategis
+"9778566170",5250,fuel,SPBU Tambak Rejo,105.014,-5.378,25,strategis
+"9778586341",5250,fuel,Pertamini Dobdob,104.991,-5.357,20,strategis
+"9778661750",5250,fuel,SPBU Fajar Resuk,104.964,-5.356,16,strategis
+"9778824803",5250,fuel,SPBU Kali Balangan,104.969,-4.876,10,strategis
+"9780499212",5250,fuel,Pertamini,104.896,-5.370,23,strategis
+"9780602970",5250,fuel,SPBU Pagelaran Kota,104.884,-5.371,20,strategis
+"9780652392",5250,fuel,SPBU Tanjung Heran,104.797,-5.355,9,strategis
+"9780659627",5250,fuel,Pertamini Mang Mul,104.861,-5.368,6,strategis
+"9780868747",5250,fuel,SPBU Gunung Tiga,105.452,-5.056,0,tidak stra
+"9781027881",5250,fuel,Pertamini Iwan Astra,105.217,-4.629,15,strategis
+"9781042786",5250,fuel,Pertamini Pak Supri,105.210,-4.634,8,strategis
+"9782141889",5250,fuel,Pertamini Ryacudu,105.290,-5.380,51,strategis
+"9782251692",5250,fuel,Pertamini Eceran,105.276,-5.338,5,strategis
+"9784197860",5250,fuel,Pertamini Nola,105.250,-5.501,3,tidak stra
+"9784611680",5250,fuel,Pertamini,104.613,-5.489,11,strategis
+"9784794948",5250,fuel,SPBU Pertamina Sudirman Liwa,104.085,-5.038,18,strategis
+"9785929251",5250,fuel,SPBU Ki Maja,105.270,-5.386,165,strategis
+"9785969649",5250,fuel,SPBU Sultan Agung,105.270,-5.381,161,strategis
+"9786469801",5250,fuel,SPBU RA Basyid,105.264,-5.352,20,strategis
+"9787131635",5250,fuel,SPBU Karang Anyar,105.287,-5.308,21,strategis
+"9787177731",5250,fuel,SPBU Simpang,105.305,-5.234,9,strategis
+"9787194245",5250,fuel,SPBU Kibang,105.317,-5.192,5,strategis
+"9788597891",5250,fuel,SPBU Tirtayasa,105.319,-5.410,19,strategis
+"9788692543",5250,fuel,SPBU Kali Asin,105.343,-5.417,19,strategis
+"9789364652",5250,fuel,Pertamini Gusti,105.398,-5.417,21,strategis
+"9789376438",5250,fuel,SPBU Serdang,105.402,-5.420,16,strategis
+"9789387379",5250,fuel,SPBU Kotabumi,104.898,-4.835,41,strategis
+"9789442226",5250,fuel,SPBU Kotabumi,104.913,-4.850,22,strategis
+"9789688281",5250,fuel,SPBU Terbanggi Besar,105.226,-4.831,9,strategis
+"9789796916",5250,fuel,Pertamini Abdl Malik,105.215,-4.760,15,strategis
+"9789802599",5250,fuel,SPBU,105.213,-4.757,8,strategis
+"9790787612",5250,fuel,Pertamini,104.237,-3.446,16,strategis
+"9791514825",5250,fuel,SPBU Simpang Manna,103.264,-4.034,15,strategis
+"9791603894",5250,fuel,SPBU Shell,98.971,3.568,27,strategis
+"9791603907",5250,fuel,SPBU Pertamina,98.967,3.569,44,strategis
+"9791638099",5250,fuel,SPBU Pertamina,98.999,3.567,28,strategis
+"9792108578",5250,fuel,Pertamini,99.007,3.555,18,strategis
+"9792123382",5250,fuel,SPBU Pertamina,99.031,3.552,21,strategis
+"9792598684",5250,fuel,Pertamini Taba Jemekeh,102.882,-3.286,32,strategis
+"9792870414",5250,fuel,Pertamini,102.858,-3.300,37,strategis
+"9793168653",5250,fuel,Pertamina Tebing Tinggi,103.083,-3.586,10,strategis
+"9794057209",5250,fuel,SPBU Pramuka,105.221,-5.381,47,strategis
+"9794159814",5250,fuel,SPBU Rajabasa1,105.233,-5.368,44,strategis
+"9794160659",5250,fuel,SPBU Rajabasa 2,105.234,-5.367,44,strategis
+"9794427264",5250,fuel,SPBU AKR,105.276,-5.364,46,strategis
+"9794432702",5250,fuel,SPBU Codo,105.278,-5.363,45,strategis
+"9794712653",5250,fuel,SPBU Way KAndis,105.285,-5.359,34,strategis
+"9794794529",5250,fuel,SPBU Jati Mulyo,105.295,-5.342,42,strategis
+"9795414889",5250,fuel,SPBU Garuntang,105.285,-5.436,35,strategis
+"9796116864",5250,fuel,SPBU Martadinata,105.244,-5.465,39,strategis
+"9796139579",5250,fuel,Pertashop,105.255,-5.452,84,strategis
+"9797510492",5250,fuel,SPBU Lintik,103.924,-5.230,6,strategis
+"9797669652",5250,fuel,SPBU Rumah Susun,104.750,-2.987,195,strategis
+"9800497935",5250,fuel,SPBU Pertamina,98.617,3.595,22,strategis
+"9801931514",5250,fuel,Pertamina,99.637,2.512,1,tidak stra
+"9808924194",5250,fuel,SPBU SUKABERENANG,104.453,0.914,51,strategis
+"9896556157",5250,fuel,SPBU Pattimura,105.266,-5.444,120,strategis
+"9933038047",5250,fuel,SPBU AKR,105.548,-5.648,0,tidak stra
+"9943973464",5250,fuel,Pertashop,105.088,-4.582,1,tidak stra
+"10076576518",5250,fuel,,101.427,-0.914,1,tidak stra
+"10091624007",5250,fuel,,104.759,-2.944,7,strategis
+"10128309546",5250,fuel,,104.908,-3.787,7,strategis
+"10570130301",5250,fuel,Pom Mini,101.942,-2.120,0,tidak stra
+"10598442171",5250,fuel,Pertashop,105.091,-4.513,4,tidak stra
+"10648564262",5250,fuel,,100.527,-0.322,2,tidak stra
+"10648564263",5250,fuel,,100.553,-0.364,0,tidak stra
+"10648564264",5250,fuel,,100.560,-0.396,0,tidak stra
+"10701166696",5250,fuel,,98.854,2.670,146,strategis
+"10704076934",5250,fuel,Pertamina,98.820,2.692,1,tidak stra
+"10720845195",5250,fuel,Pertamina,99.067,2.971,0,tidak stra
+"10991721289",5250,fuel,SPBU 14 202 102,98.694,3.559,61,strategis
+"10991751869",5250,fuel,SPBU 14.201.1126,98.687,3.568,50,strategis
+"11104858476",5250,fuel,SPBU Pertamina,105.276,-5.046,1,tidak stra
