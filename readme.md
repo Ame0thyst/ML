@@ -14,8 +14,6 @@ Repositori ini berisi berbagai proyek Machine Learning dengan berbagai algoritma
 
 Setiap proyek dirancang untuk membantu memahami dan mengimplementasikan berbagai teknik dalam dunia Machine Learning & Data Science.
 
----
-
 ## 📂 Struktur Repositori
 
 📁 **Supervised Learning**
@@ -70,8 +68,6 @@ Setiap proyek dirancang untuk membantu memahami dan mengimplementasikan berbagai
    ```bash
    jupyter notebook
    ```
-
----
 
 ## 🛠 Teknologi yang Digunakan
 
