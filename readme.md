@@ -99,7 +99,7 @@ Repositori ini menggunakan **MIT License** – bebas digunakan dan dikembangkan 
 
 Jika ada pertanyaan atau ingin berdiskusi, hubungi saya melalui:  
 📩 **Email:** gilang.ikoo15@gmail.om
-🐦 **Twitter:** [@johndoe](#)  
-💼 **LinkedIn:** [John Doe](https://www.linkedin.com/in/gilangikoo/)
+🐦 **Twitter:** [Meyy Dev](#)  
+💼 **LinkedIn:** [Mas Gilang Wiko Wicaksono](https://www.linkedin.com/in/gilangikoo/)
 
 🚀 **Mari berkembang bersama dalam dunia Machine Learning!** 🌍
