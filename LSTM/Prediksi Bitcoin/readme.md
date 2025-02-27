@@ -17,11 +17,7 @@ Pendekatan yang digunakan dalam proyek ini mengikuti tahapan berikut:
 - Mengambil data historis harga Bitcoin.
 - Mengubah format data agar sesuai untuk pemrosesan lebih lanjut.
 - Memvisualisasikan data untuk memahami pola dan tren.
-- Sumber data :
-
-````bash
-https://www.investing.com/crypto/bitcoin/btc-usd
-```
+- Sumber data : 🔗 [📃Data Historis Bitcoin / USD](https://www.investing.com/crypto/bitcoin/btc-usd)
 
 2️⃣ **Preprocessing Data**
 
@@ -126,7 +122,7 @@ Proyek ini menggunakan berbagai library populer seperti:
 ```bash
 git clone https://github.com/username/repo-name.git
 cd repo-name
-````
+```
 
 #### 2️⃣ **Install Dependencies**
 
