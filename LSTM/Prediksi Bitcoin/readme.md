@@ -17,6 +17,11 @@ Pendekatan yang digunakan dalam proyek ini mengikuti tahapan berikut:
 - Mengambil data historis harga Bitcoin.
 - Mengubah format data agar sesuai untuk pemrosesan lebih lanjut.
 - Memvisualisasikan data untuk memahami pola dan tren.
+- Sumber data :
+
+````bash
+https://www.investing.com/crypto/bitcoin/btc-usd
+```
 
 2️⃣ **Preprocessing Data**
 
@@ -73,7 +78,7 @@ Semakin rendah nilai dari metrik-metrik ini, semakin baik performa model.
 
 ### 🔍 **Penjelasan Detail**
 
-📌 **1. Import Library**  
+📌 **1. Import Library**
 Proyek ini menggunakan berbagai library populer seperti:
 
 - `pandas` & `NumPy` untuk manipulasi data.
@@ -121,7 +126,7 @@ Proyek ini menggunakan berbagai library populer seperti:
 ```bash
 git clone https://github.com/username/repo-name.git
 cd repo-name
-```
+````
 
 #### 2️⃣ **Install Dependencies**
 
@@ -161,9 +166,9 @@ Hasil akan divisualisasikan dalam bentuk **grafik**.
 
 ### 📌 **Kontributor**
 
-👨‍💻 **[Nama Anda]** – _Machine Learning Engineer_  
-📧 Email: your.email@example.com  
-🔗 GitHub: [github.com/yourprofile](https://github.com/yourprofile)
+👨‍💻 **Deo Rafiansyah Putra** – _Machine Learning Engineer_  
+📧 Email: 210401179@student.umri.ac.id
+🔗 GitHub: [github.com/yourprofile](https://github.com/deorafiansev)
 
 ---
 
