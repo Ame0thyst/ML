@@ -98,8 +98,8 @@ Repositori ini menggunakan **MIT License** – bebas digunakan dan dikembangkan 
 ## 📢 Kontak
 
 Jika ada pertanyaan atau ingin berdiskusi, hubungi saya melalui:  
-📩 **Email:** johndoe@example.com  
-🐦 **Twitter:** [@johndoe](https://twitter.com/johndoe)  
-💼 **LinkedIn:** [John Doe](https://linkedin.com/in/johndoe)
+📩 **Email:** gilang.ikoo15@gmail.om
+🐦 **Twitter:** [@johndoe](#)  
+💼 **LinkedIn:** [John Doe](https://www.linkedin.com/in/gilangikoo/)
 
 🚀 **Mari berkembang bersama dalam dunia Machine Learning!** 🌍
