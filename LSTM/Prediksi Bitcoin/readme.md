@@ -164,7 +164,7 @@ Hasil akan divisualisasikan dalam bentuk **grafik**.
 
 👨‍💻 **Deo Rafiansyah Putra** – _Machine Learning Engineer_  
 📧 Email: 210401179@student.umri.ac.id
-🔗 GitHub: [Deo Afriansyah dan Shelly 👻](https://github.com/deorafiansev)
+🔗 GitHub: [Deo Rafiansyah dan Shelly 👻](https://github.com/deorafiansev)
 
 ---
 
